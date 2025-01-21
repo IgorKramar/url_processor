@@ -1,0 +1,16 @@
+[package]
+name = "url_processor"
+version = "0.1.0"
+edition = "2021"
+
+description = "Асинхронная обработка URL с использованием Rust"
+authors = ["Игорь Крамарь <i@ikramar.ru>"]
+license = "MIT"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12.12", features = ["json"] }
+sled = "0.34"
+anyhow = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

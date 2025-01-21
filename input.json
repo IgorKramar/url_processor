@@ -1,0 +1,9 @@
+{
+  "urls": [
+      "https://example.com",
+      "https://rust-lang.org",
+      "https://tokio.rs",
+      "https://docs.rs",
+      "https://github.com"
+  ]
+}
