@@ -21,8 +21,8 @@
 1. Убедитесь, что на вашем компьютере установлен Rust (инструкции по установке: https://www.rust-lang.org/).
 2. Склонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
-   cd <папка_репозитория>
+   git clone https://github.com/IgorKramar/url_processor
+   cd url_processor
    ```
 3. Установите зависимости:
    ```bash
